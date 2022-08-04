@@ -1,0 +1,4 @@
+time="2022-08-04T17:45:09+05:00" level=info msg="created Log file and save log" func="main.main()" file="main.go:8"
+time="2022-08-04T17:45:09+05:00" level=error msg="No error here" func="main.main()" file="main.go:9"
+time="2022-08-04T17:45:09+05:00" level=debug msg="No Debug mode" func="main.main()" file="main.go:10"
+time="2022-08-04T17:45:09+05:00" level=fatal msg="No Fatal mode" func="main.main()" file="main.go:11"
